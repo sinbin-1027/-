@@ -1,0 +1,8 @@
+Django==4.2.16
+asgiref==3.8.1
+sqlparse==0.5.1
+typing_extensions==4.12.2
+tzdata==2024.1
+## 난 django만 설치했는데 다른 파일도 설치됨 => 의존성 패키지
+# django가 나머지 패키지들에 의존하고 있다 
+# django라는 패키지를 사용하기 위해서는 나머지 패키지들이 필요하다~!~!
